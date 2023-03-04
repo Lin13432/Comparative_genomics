@@ -38,7 +38,9 @@ WP_012504624.1 was picked as the example to run protein blast, this is a S41 fam
 
 A variability plot (Figure 1) was generated using the resulting file from MSA analysis. The variability is lower, the sequence region is more likely to be a conserved region. In the variability list (Variability.txt), positions 141T, 170I, 195E, 223I, 252K, 284G, 286Q, 289S, 290V, 291K, 293A, 303V, 308T, 337T, 347T, 348I, 351S, 352E, 355A, 362D, 367V, 372Q, 374L, 376R, 397I,398Q,400Q,403G have the lowest variability 1 (start with 0), and from the plot, sequence region from 330 to 410 has relatively low variability.
 
-![image](Figures/Variability plot.png)
+![image](https://github.com/Lin13432/Comparative_genomics/blob/main/Figures/Variability%20plot.png)
+
+Figure 1: Variability plot of 72 homologs. X-axis represents each position in the sequence, Y-axis represent the variability value of each position.
 
 **3.4.Promotor regions**
 
