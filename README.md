@@ -38,6 +38,8 @@ WP_012504624.1 was picked as the example to run protein blast, this is a S41 fam
 
 A variability plot (Figure 1) was generated using the resulting file from MSA analysis. The variability is lower, the sequence region is more likely to be a conserved region. In the variability list (Variability.txt), positions 141T, 170I, 195E, 223I, 252K, 284G, 286Q, 289S, 290V, 291K, 293A, 303V, 308T, 337T, 347T, 348I, 351S, 352E, 355A, 362D, 367V, 372Q, 374L, 376R, 397I,398Q,400Q,403G have the lowest variability 1 (start with 0), and from the plot, sequence region from 330 to 410 has relatively low variability.
 
+![image](Figures/Variability plot.png)
+
 **3.4.Promotor regions**
 
 Three protein sequences were used to study the orthology, they are WP_012504624.1, its in-paralog WP_012505586.1 and the BBH WP_011563862.1 Both WP_012504624.1 and WP_012505586.1 are orthologous to WP_011563862.1, so a FASTA file containing three DNA sequences related to these three proteins were generated (orthologs.txt). Then the FASTA file was used to do the MSA analysis and generate an output file (align_orthologs). The alignment file was uploaded to PVS to create the variability plot (Figure 2). In the plot, positions from 0 to 70 have a region with relatively low variability
