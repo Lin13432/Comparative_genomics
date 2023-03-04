@@ -1,0 +1,182 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+CP001108.1_23505-25175              --------------------------------ATGAAACGCTGGTATCGT
+CP001108.1_1112762-1114405          ------------------------------------------------AT
+Rubrobacter_xylanophilus-WP_01      ATGTGGAGAACGGGCATCACCAAGAGAAAGCGGGGCCGCGGCCCGCTCGT
+                                                                                     *
+
+CP001108.1_23505-25175              CAGC-TCTTGCTTTCTTCTGTCGTTGTCCTGACGACAGCCTCCTTCTTTT
+CP001108.1_1112762-1114405          GAGC-CGTA--TTTTTCAGGCCCTGGTTATGATTGCAGTCCTCTCTTTCG
+Rubrobacter_xylanophilus-WP_01      GAGGGTGCTGCTCCTCGCGGCCCTGCTCGTGGCGGTGGGGTACGGGGCCT
+                                     **        *       * * *  *  **      *    *       
+
+CP001108.1_23505-25175              TCCATCCTCTTTTCGCCCGTC---AAAGCGGCATGTT---CTCCATTGTG
+CP001108.1_1112762-1114405          GTATTCTTCTTGGGAGCAGACTGCAAAACGATTCTTTGGGTCCTGTTTTT
+Rubrobacter_xylanophilus-WP_01      ACGAGTACGGCAAGTCCCAGAGCCCCGCCGGCCTCTCCGGCCCGGACAGG
+                                                    *           **     *      *       
+
+CP001108.1_23505-25175              CGAAGCATCGACCTGCTTGGGGATGTTTTTCGTGAGGTGTCACTGAGCTA
+CP001108.1_1112762-1114405          GGTTATCAGAAAAAACTCTTTGATGTTATTAATCTGATTTCATCGAGATA
+Rubrobacter_xylanophilus-WP_01      GAGAGCCTCAGGCTCTACGCCGAGGCGCTGGACGCCGTCCGCGACGGCTA
+                                                         ** *   *        *        * **
+
+CP001108.1_23505-25175              TGT------CGATTCCATCGATGTAGGGAAATTTATGTTTGCCGGTATCG
+CP001108.1_1112762-1114405          TGT------CGATGATGTTGATCCTGATTCTCTGGCGGAAAGCGGCATTA
+Rubrobacter_xylanophilus-WP_01      CGTGGACCGCGAGGCCATAGACCCCAAGAAGCAGACCTACGGCGCGATAG
+                                     **      ***     * **                     **  **  
+
+CP001108.1_23505-25175              ACGGTATGCTCGAAACCCTTGATCCA------TATACGGTCTTTCTCGAT
+CP001108.1_1112762-1114405          AGGGTATGGTTGAATCCCTTGATCCT------CATACTGTTTATCTGAGT
+Rubrobacter_xylanophilus-WP_01      AGGGGATGCTCGACTCGCTCGGCGACGAGGGGCACACCCGCTTTCTGACC
+                                    * ** *** * **  * ** *            * **    * ***    
+
+CP001108.1_23505-25175              AAAGAGGAGTCTGTTGAGCTTGGCGAGATCACCAGCGGTCAGTATGGTGG
+CP001108.1_1112762-1114405          CAGGATAAAGTCTCCTATTCAAAAGCGGAGTTTAAGGGGAACTTTGAGGG
+Rubrobacter_xylanophilus-WP_01      CCCGAGGAGCGCAGGGAGAACGAGCAGGGACTCTCGGGCGACTACGTCGG
+                                       **  *        *         *         **  * *  *  **
+
+CP001108.1_23505-25175              TATAGGGGTTACTATTGCCGGAATCGACAACGGCGTCTATGTCGTATCGG
+CP001108.1_1112762-1114405          GATAGGCATTGA-ATT--CGATATCATTCGAGATACGCTTGTCGTTGTTG
+Rubrobacter_xylanophilus-WP_01      GATAGGGGTGCAGCTCGAGGACCGGGACGGGCGGGTGGTGGTGGCCTCCC
+                                     *****  *     *    *                    ** *      
+
+CP001108.1_23505-25175              TTCTCGATGGTTTTTCGGC--ATCCCGGGCA--GGTATCAAGGTTGGCGA
+CP001108.1_1112762-1114405          CTC-CATTGACCAGTGGACCAAGCCAGGACGCTGGCATTATGGCAGGCGA
+Rubrobacter_xylanophilus-WP_01      CCATAGAGGGCTCCCCGGC--GGACCGGGCG--GGGATCGAGTCGGGGGA
+                                            *       * *     * ** *   ** **   *   ** **
+
+CP001108.1_23505-25175              TCAGCTCATCAGCGTTGATGGGATTTCCATCAGGCAGGATTCTCTTGAAA
+CP001108.1_1112762-1114405          CAGGATTCTTGCGATTGATTCTGTCAGCGCGATAGGTATTGCATCGTCAG
+Rubrobacter_xylanophilus-WP_01      CGTGCTGGTCGCGGTGAACGGCCGGAGCGTGAGCGGGCAGGAGCTCGACC
+                                       * *  *     *  *         *   *                  
+
+CP001108.1_23505-25175              CAGTCAAAAACCTGCTCAAGGGAACACCTGGAACCTCGTTGAATCTCGTT
+CP001108.1_1112762-1114405          CAGTTGTTGCTTCATTGCGGGGCGAGAAGGGTTCTTCGGTTCATCTTGAT
+Rubrobacter_xylanophilus-WP_01      GCATCGCCGACCGGGTGAAGGGGCCGGAGGGCACGCGGGTGAAGATAACG
+                                       *           *   ***       **  *   * *  *  *    
+
+CP001108.1_23505-25175              CTGCGTCGTTATGGGGCGCAGGCCAATCGTA-AGCTGACCCTGACTCGTC
+CP001108.1_1112762-1114405          CTTTACAGGCCTTTCA-GTAAACGGTTTCTGCATCTGGATGTAAAACGAG
+Rubrobacter_xylanophilus-WP_01      GTGCTGCGCGACGGGGAGGAGA-GAACCTTCTACCTGGA-GCGGGCGGAG
+                                     *     *         * *         *  * ***          *  
+
+CP001108.1_23505-25175              AGGAGATCAGGGTGAACAGTATCCGCTATGCCGGT-CTTATAGGCGATA-
+CP001108.1_1112762-1114405          ATAGAATTCCTACGTATAGCATC-GATGCGTCGTTTCTTCTCGATGACAG
+Rubrobacter_xylanophilus-WP_01      ATAGAGTCCCCG---GCCGTCTCGTGGGCGATGGTGCCGGGGACCGGCG-
+                                    *     *           *  **      *  * * *        *    
+
+CP001108.1_23505-25175              --TCGGTTATTTTGAGATGAGTTCGTTCGGTAACAGAAGTGCTGAAGAGC
+CP001108.1_1112762-1114405          GACCGGTTACATCCGTTTGAGCCGTTTTGTTTCAACGACATCTGATGAGT
+Rubrobacter_xylanophilus-WP_01      --TGGCGCACATCCGCCTCTCCTCCTTCTCCGACGACAGCGCCCGGGAGC
+                                        *   *  *     *       **          *   *    *** 
+
+CP001108.1_23505-25175              TGAGCGCTGCAATCAGTGAACTCAACGCAGAGGCGGAGGGTTCGGGACAA
+CP001108.1_1112762-1114405          TTG----TACAGTCGCT---TTCTGATTTGAAGTCAAGAG----------
+Rubrobacter_xylanophilus-WP_01      TCA-------GGGCGGC---CTTTGAGGAGGCGCGGCTGG--------AC
+                                    *            *       *       *  *      *          
+
+CP001108.1_23505-25175              CGGATGAAGGCGGTTATTCTCGATCTGCGAAATAATCCGGGAGGCCTTCT
+CP001108.1_1112762-1114405          -GCATGAAGGGTCTTGTCGTTGATTTGCGGGGTAATCCCGGCGGATATCT
+Rubrobacter_xylanophilus-WP_01      GGCGCGGAGCGCTTTGTCCTGGACCTGCGGGACAACCCGGGCGGCAGGCT
+                                     *   * **    ** *  * **  ****    ** ** ** **    **
+
+CP001108.1_23505-25175              CGACGTTGCCGTCGATGTCACCGGTCTGTT-CGTGCGTCAGGGCAGCGAG
+CP001108.1_1112762-1114405          TGAGGAGGCTGTTGAAATTGCTGACGAGTTTCTTGCGCC-GGACAGTTTG
+Rubrobacter_xylanophilus-WP_01      GGAGCAGGCGGTGGAGATGGCCGGGTTCTTCCTGGAGCCCGGAAGCGTCG
+                                     **    ** ** **  *  * *     ** *  * * * **       *
+
+CP001108.1_23505-25175              GTCGTTTCCATCAGGGGGCGTT-TGCCTGA--GAGTGAAAATCGATACGT
+CP001108.1_1112762-1114405          ATTGTCTACACAAAAAGCCGTCATGGCGGGCCGGACGAAATCAAATATCG
+Rubrobacter_xylanophilus-WP_01      TGTACATCCGCCGGGACGCCTC----CGGG--GAGCGCACGCCGGTGAGG
+                                          * *         * *     * *   *   * *      *    
+
+CP001108.1_23505-25175              AACCAAGCGGGATCCCGTTGCAGGCGACCTTCCTCTCTCGGTTCTCATCA
+CP001108.1_1112762-1114405          TTCTACAGCTGATGGCGATTATCAAAGCGGGCCTCTTGTCATCCTCGTCG
+Rubrobacter_xylanophilus-WP_01      GCCGACGGCGAGGCCCAGCTTGCGGAG-GTGCCGCTCGCCGTCCTGGTGA
+                                      * *          *               ** **     * **  *  
+
+CP001108.1_23505-25175              ACTCAAAAAGCGCTTCTGCATCTGAAATTGTGGCAGGTGCGATTCAGGAG
+CP001108.1_1112762-1114405          ACAGGGGAAGCGCTTCTGCTGCTGAAATTCTGGCCGGAGCCCTTCAGGAC
+Rubrobacter_xylanophilus-WP_01      ACGGCGGCTCGGCCTCCAGCGCCGAGATCCTCGCCGGGGCGCTGCGGGAC
+                                    **         ** **     * ** **  * ** ** **  * * *** 
+
+CP001108.1_23505-25175              CTTGATCGAGGCGTGGTTATCGGGGCGCGTTCATTTGGCAAAGGTCTTGT
+CP001108.1_1112762-1114405          AGCAGGCGTGCACCGGTTGTCGGGGAGCTGACATTTGGCAAGGGGCTTGT
+Rubrobacter_xylanophilus-WP_01      AACGACCGGGCGACGGTCATCGGGCAGCGGACGTTCGGCACCGGGACGGT
+                                          ** *    ***  *****  **   * ** ****  **    **
+
+CP001108.1_23505-25175              GCAGTCGATCATTCCTCTTCCTTATGACTGCAAGCTCAAGATGACCTCAG
+CP001108.1_1112762-1114405          TCAGCGTCAGTTTGATCTTTATGACGGTTCGGCAATTCGACTGACCATAG
+Rubrobacter_xylanophilus-WP_01      GCTCTCGGAGTTCGTGCTGAGCGACGGGTCGGCCATCCTGCTCGGGGTCG
+                                     *         *    **     * *  *      *     *       *
+
+CP001108.1_23505-25175              CCCGTTACTATACCCCCTCCGGTCGTCTTATCCAGAAATACCATGCCCGG
+CP001108.1_1112762-1114405          CCCGTTACTATACTCCCCTGGGTCGACAGATTCAACGGGATTACGATAAC
+Rubrobacter_xylanophilus-WP_01      CCGAGTGGCTGACGCCGGACGGGGACTTTATCCGGGA----CACGGGGAT
+                                    **   *     ** **    **       ** *         * *     
+
+CP001108.1_23505-25175              GAGGATGGTTGGCGCAGCGTTATTC-ATGGCCCCGGCAGGCAGGATTCCT
+CP001108.1_1112762-1114405          GGGGCTCGCGGTCGAGAGGATTATT-ATGAAGACCATTCTTCGCTCCTTG
+Rubrobacter_xylanophilus-WP_01      AGAGCCGGATATCCGGGTGGGGCTCGACGAGGGGGAGGAGCCGCTCTCC-
+                                       *   *    *     *    *  * *             *       
+
+CP001108.1_23505-25175              CAAGGGTTTTCTATACCCTCAACCGCCGCAAGGTCTATGGAGGGGGCGGT
+CP001108.1_1112762-1114405          CAAGTGAGTCTT---TCTTCGATGATAGAGAGGATCTTGCTGTTGCTACT
+Rubrobacter_xylanophilus-WP_01      ---------------CCCTCGCAGACCGAAGGGCTCTCTCGGGAGGAGAT
+                                                    * **       *   **        *  *    *
+
+CP001108.1_23505-25175              ATTCT-TCCTGATATCCCTGTCAGTGAGCCCGAGTTTGACGACTATGAAG
+CP001108.1_1112762-1114405          GACGT-CGATGGCGTTCGTGTCTACAGAACAGATGCTGTTTCTCTCGGAG
+Rubrobacter_xylanophilus-WP_01      CTCCCGCCGCGACCCGCAGCTCTGGCGGGCCGTGCGCGAGCTTGCGGGCG
+                                              *     *   **       * *     *        *  *
+
+CP001108.1_23505-25175              CGAAGCTTCAAAAAAAGGGAAT---GTTTTTTCGCTATGCTTCGGCATAC
+CP001108.1_1112762-1114405          AGGTTGCCGATAGTGCGGCAGTCAAAGCTTTTGGCGGTG-TTGGGGGTAT
+Rubrobacter_xylanophilus-WP_01      GGAGGGTGTAG---------------------------------------
+                                     *       *                                        
+
+CP001108.1_23505-25175              CGCTCCCTTCATCCGAAAGCGCCCGGGCTTCCGATGAAGCGCGAGGGTCT
+CP001108.1_1112762-1114405          CATTCCTGATTTCTGG----GTTCTGGAT---GATAGACCCGGAGAGTAT
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              TCTCAAGGGTTTCA-----ACGCATTTCTGGAAGAGGAACGCTTTTCGTT
+CP001108.1_1112762-1114405          TTTGTGATGCTGCAGGAGAAGGGGGTGATAGAGGAAACAGCCCTTGCGGT
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              --TGAAT--CCGAGCCGGAGGTGCTTTTGGATCAGATGAAGCTTTCGACA
+CP001108.1_1112762-1114405          CCTGGATGATTCGGCAAGCAGGGTTCGTGAACTGGGCGGCTCTCTTGATC
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              GC-------AGAATTAGGCCGT---TCAAGTCGTCTTGATTCTCTTTTCA
+CP001108.1_1112762-1114405          TTTTTCTTGAAAAATATGCTGAGAATCAACGTGTCGAGCGTTATCTTGAA
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              ATGAGGTGGAG-CGTGAGGTTTCCATGCTGACGGAGCGCTACAG--GGTG
+CP001108.1_1112762-1114405          ATGGTATGCAGGCGTAAGAATATGACGAT--TGATGCGTTGGAGCTGGAG
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              GACGACAGGGAGCGGATTGCTCTGGCTGTGGAGAGGGAGATTCTGCGCCA
+CP001108.1_1112762-1114405          CGGGAAAAGACCCGTATTATGATAGCGGTCAAATCCCGTATTGCCCGGCA
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              TTACGATGAGGATGCCGCTCGAAGGCTCTCTCTCGAACAGGACCCGGTCG
+CP001108.1_1112762-1114405          GCTGTTCGGTATCGGCGGTCAGATTCGGGTTCTGGTGGAAGA---GGCCG
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              TCAAAAAAGCGCTTGATGTTCT----CAACTCCCCAAAACAGTACCGCAG
+CP001108.1_1112762-1114405          ACAAGGTTCTTCTGGTTGCCAGAGAGCAGCTTTATAAAGAGGTGCTGTAA
+Rubrobacter_xylanophilus-WP_01      --------------------------------------------------
+                                                                                      
+
+CP001108.1_23505-25175              CGTTCTCAAACCCTGA
+CP001108.1_1112762-1114405          ----------------
+Rubrobacter_xylanophilus-WP_01      ----------------
+                                                    
