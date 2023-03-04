@@ -40,7 +40,7 @@ A variability plot (Figure 1) was generated using the resulting file from MSA an
 
 ![image](https://github.com/Lin13432/Comparative_genomics/blob/main/Figures/Variability%20plot.png)
 
-Figure 1: Variability plot of 72 homologs. X-axis represents each position in the sequence, Y-axis represent the variability value of each position.
+**Figure 1: Variability plot of 72 homologs. X-axis represents each position in the sequence, Y-axis represent the variability value of each position.**
 
 **3.4.Promotor regions**
 
@@ -48,7 +48,7 @@ Three protein sequences were used to study the orthology, they are WP_012504624.
 
 ![image](https://github.com/Lin13432/Comparative_genomics/blob/main/Figures/Varibility_plot_3_orthologs.png)
 
-Figure 2: Variability plot of 3 orthologs. X-axis represents each position in the sequence, Y-axis represent the variability value of each position.
+**Figure 2: Variability plot of 3 orthologs. X-axis represents each position in the sequence, Y-axis represent the variability value of each position.**
 
 ## 4.Discussion 
 804 pairs of BBH, 184 pairs of in-paralogs and a total of 1792 orthologs were found between proteomes of Prosthecochloris aestuarii (3205 protein-coding genes) and Rubrobacter xylanophilus (2302 protein-coding genes), which means a relatively large percent of protein-coding genes are orthologous between two species and some of them are even co-orthologous, this discovery indicates that these protein-coding genes are evolved from a common ancestral gene and retained similar functions in two species.
@@ -58,3 +58,21 @@ In the end of this study, I was trying to find the promotor regions in DNA seque
 
 ## 5.References 
 Jin, V. X., Singer, G. A. C., Agosto-Pérez, F. J., Liyanarachchi, S., & Davuluri, R. V. (2006). Genome-wide analysis of core promoter elements from conserved human and mouse orthologous pairs. BMC Bioinformatics, 7(1), 114–114. https://doi.org/10.1186/1471-2105-7-114
+
+
+## 6.Appendix
+
+![image](https://github.com/Lin13432/Comparative_genomics/blob/main/Figures/PhylogenticTree_00.png)
+
+**Supplementary Figure 1: Phylogenetic tree of 72 homologs**
+
+![image](https://github.com/Lin13432/Comparative_genomics/blob/main/Figures/speciesTree_00.png)
+
+**Supplementary Figure 2: Species tree of 26 species**
+
+![image](https://github.com/Lin13432/Comparative_genomics/blob/main/Figures/Events_00.png)
+
+**Supplementary Figure 3: Phylogenetic tree of 72 homologs with speciation events and duplications events. Red squares represent speciation events, and green squares represent duplication events.**
+
+
+
