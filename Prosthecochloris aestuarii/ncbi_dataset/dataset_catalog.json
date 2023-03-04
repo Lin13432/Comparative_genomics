@@ -1,0 +1,31 @@
+{
+"apiVersion": "V1",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "data_summary.tsv",
+      "fileType": "DATA_TABLE"
+    },
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000020625.1",
+  "files": [
+    {
+      "filePath": "GCF_000020625.1/GCF_000020625.1_ASM2062v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000020625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA"
+    },
+    {
+      "filePath": "GCF_000020625.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+}]}
