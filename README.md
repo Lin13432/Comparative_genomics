@@ -1,6 +1,6 @@
 # Comparative_genomics
 ## 1.Introduction
-In this study, **Prosthecochloris aestuarii** and **Rubrobacter xylanophilus** were subjected to comparative genomic analysis. **Orthologs** were found between protein sequences from two different species using the **Best Bidirectional Hits (BBH)** method, and a **phylogenetic tree** was created by aligning the homologs of one example of orthologs. **Speciation and Duplication events** were marked on the tree, which was compared with a **species tree** based on rRNA resources. **Multiple Sequences Alignment (MSA)** was applied in the end to identify **conserved regions** in protein sequences and potential promotor regions in DNA sequences.
+In this study, **Prosthecochloris aestuarii** and **Rubrobacter xylanophilus** were subjected to comparative genomic analysis. **Orthologs** were found between protein sequences from two different species using the **Best Bidirectional Hits (BBH)** method, and a **phylogenetic tree** was created by aligning the homologs of one example of orthologs. **Speciation and Duplication events** were marked on the tree, which was compared with a **species tree** based on rRNA resources. **Multiple Sequences Alignment (MSA)** was applied in the end to identify **conserved regions** in protein sequences and **potential promotor regions** in DNA sequences.
 
 ## 2.Methods
 **2.1 Compute orthologs using Best Bidirectional Hits**
